@@ -1,6 +1,6 @@
-Use with Java and JABX API the informations from MXF File from [BMXLib Tools](https://sourceforge.net/projects/bmxlib/).
+Use with Java and JAXB API the informations from MXF File from [BMXLib Tools](https://sourceforge.net/projects/bmxlib/).
 
-You can see the [Javadoc](https://hdsdi3g.github.io/BBC-BMX-JABX/) (you can ignore the french comments, it's auto generated).
+You can see the [Javadoc](https://hdsdi3g.github.io/BBC-BMX-JAXB/) (you can ignore the french comments, it's auto generated).
 
 Usage, with Java 8:
 ```java
